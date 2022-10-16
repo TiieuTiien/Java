@@ -1,4 +1,4 @@
-public class ChuThich_07{
+public class _07_ChuThich{
     public static void main(String[] args) {
         //Day cung la chu thich
         System.out.println("abc");

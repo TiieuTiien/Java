@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TryCatchFinal_28 {
+public class _28_TryCatchFinal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

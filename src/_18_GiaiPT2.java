@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GiaiPT2_18 {
+public class _18_GiaiPT2 {
     public static void main(String[] args) {
         //Phuong trinh bac 2: a*x^2 + b*x + c = 0
         //B1 tinh delta

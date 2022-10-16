@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FromDecToBin_24 {
+public class _24_FromDecToBin {
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
